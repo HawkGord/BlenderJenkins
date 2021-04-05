@@ -1,0 +1,27 @@
+[
+    {
+        "architecture": "AMD64",
+        "hostname": "DESKTOP-VN0GTAJ",
+        "ip-address": "192.168.1.69",
+        "mac-address": "b4:2e:99:ce:40:03",
+        "platform": "Windows",
+        "platform-release": "10",
+        "platform-version": "10.0.19041",
+        "processor": "Intel64 Family 6 Model 158 Stepping 13, GenuineIntel",
+        "ram": "16 GB"
+    },
+    {
+        "image-output-format": "PNG",
+        "material-color": [
+            0.0,
+            0.6,
+            0.2,
+            1.0
+        ],
+        "object-type": "Sphere",
+        "scene-path": "C:/Jen/test.blend"
+    },
+    {
+        "rend-time": "00:00.13"
+    }
+]

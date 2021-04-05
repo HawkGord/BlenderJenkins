@@ -1,0 +1,437 @@
+Switching to fully guarded memory allocator.
+Blender 2.79 (sub 0)
+Build: Mon 09/11/2017 07:44 AM Windows 
+argv[0] = blender
+argv[1] = -b
+argv[2] = C:/Jen/test.blend
+argv[3] = -o
+argv[4] = C:\AgentFirst\workspace\Blender\render_img
+argv[5] = -F
+argv[6] = PNG
+argv[7] = --debug
+argv[8] = -P
+argv[9] = C:\Jen\BlenderScript.py
+argv[10] = --
+argv[11] = Sphere
+argv[12] = [0.0,0.6,0.2,1]
+
+Note: No (valid) 'C:\Users\popov\AppData\Roaming\Blender Foundation\Blender\2.79\config\startup.blend' found, fall back to built-in default.
+
+read file 
+  Version 272 sub 2 date unknown hash unknown
+
+ordered
+ OBCube
+ OBLamp
+ OBCamera
+found bundled python: C:\Program Files\Blender Foundation\Blender\2.79\python
+Read blend: C:/Jen/test.blend
+read file C:/Jen/test.blend
+  Version 279 sub 0 date 2017-09-11 10:43 hash 5bd8ac9
+
+ordered
+ OBLamp
+ OBCamera
+ED_undo_push: Enter Editmode
+
+ordered
+ OBSphere
+ OBLamp
+ OBCamera
+
+ordered
+ OBSphere
+ OBLamp
+ OBCamera
+
+ordered
+ OBSphere
+ OBLamp
+ OBCamera
+Evaluate all animation - 1.000000
+	No Actions, so no animation needs to be evaluated...
+Fra:1 Mem:16.39M (0.00M, Peak 16.41M) | Time:00:00.00 | Preparing Scene data
+Fra:1 Mem:16.41M (0.00M, Peak 16.41M) | Time:00:00.00 | Preparing Scene data
+Fra:1 Mem:16.41M (0.00M, Peak 16.41M) | Time:00:00.00 | Creating Shadowbuffers
+Fra:1 Mem:16.41M (0.00M, Peak 16.41M) | Time:00:00.00 | Raytree.. preparing
+Fra:1 Mem:16.48M (0.00M, Peak 16.48M) | Time:00:00.00 | Raytree.. building
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Raytree finished
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Creating Environment maps
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Caching Point Densities
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Sce: Scene Ve:482 Fa:512 La:1
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Loading voxel datasets
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Sce: Scene Ve:482 Fa:512 La:1
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Sce: Scene Ve:482 Fa:512 La:1
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Volume preprocessing
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Sce: Scene Ve:482 Fa:512 La:1
+Fra:1 Mem:16.48M (0.00M, Peak 16.60M) | Time:00:00.00 | Sce: Scene Ve:482 Fa:512 La:1
+Fra:1 Mem:18.80M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 4-135
+Fra:1 Mem:18.48M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 7-135
+Fra:1 Mem:18.86M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 5-135
+Fra:1 Mem:18.79M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 9-135
+Fra:1 Mem:18.79M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 8-135
+Fra:1 Mem:18.77M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 11-135
+Fra:1 Mem:18.57M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 6-135
+Fra:1 Mem:18.45M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 1-135
+Fra:1 Mem:18.68M (0.00M, Peak 19.46M) | Time:00:00.01 | Scene, Part 13-135
+Fra:1 Mem:18.32M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 2-135
+Fra:1 Mem:18.32M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 16-135
+Fra:1 Mem:18.32M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 10-135
+Fra:1 Mem:18.32M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 17-135
+Fra:1 Mem:18.29M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 18-135
+Fra:1 Mem:18.27M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 3-135
+Fra:1 Mem:18.30M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 20-135
+Fra:1 Mem:18.20M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 19-135
+Fra:1 Mem:18.36M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 21-135
+Fra:1 Mem:18.52M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 22-135
+Fra:1 Mem:17.98M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 24-135
+Fra:1 Mem:18.57M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 25-135
+Fra:1 Mem:18.20M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 14-135
+Fra:1 Mem:17.98M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 27-135
+Fra:1 Mem:18.27M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 26-135
+Fra:1 Mem:18.68M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 29-135
+Fra:1 Mem:18.37M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 30-135
+Fra:1 Mem:18.29M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 28-135
+Fra:1 Mem:18.29M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 31-135
+Fra:1 Mem:17.77M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 12-135
+Fra:1 Mem:18.22M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 32-135
+Fra:1 Mem:18.62M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 33-135
+Fra:1 Mem:18.20M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 34-135
+Fra:1 Mem:18.23M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 23-135
+Fra:1 Mem:18.36M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 15-135
+Fra:1 Mem:17.93M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 36-135
+Fra:1 Mem:18.18M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 37-135
+Fra:1 Mem:18.09M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 35-135
+Fra:1 Mem:18.32M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 38-135
+Fra:1 Mem:18.62M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 40-135
+Fra:1 Mem:18.69M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 41-135
+Fra:1 Mem:18.79M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 44-135
+Fra:1 Mem:18.99M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 42-135
+Fra:1 Mem:18.97M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 43-135
+Fra:1 Mem:18.81M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 47-135
+Fra:1 Mem:18.76M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 45-135
+Fra:1 Mem:18.63M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 46-135
+Fra:1 Mem:18.56M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 51-135
+Fra:1 Mem:18.39M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 48-135
+Fra:1 Mem:18.34M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 50-135
+Fra:1 Mem:17.83M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 52-135
+Fra:1 Mem:18.14M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 49-135
+Fra:1 Mem:18.04M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 39-135
+Fra:1 Mem:18.12M (0.00M, Peak 19.46M) | Time:00:00.02 | Scene, Part 53-135
+Fra:1 Mem:21.50M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 56-135
+Fra:1 Mem:21.90M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 55-135
+Fra:1 Mem:21.78M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 54-135
+Fra:1 Mem:21.50M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 59-135
+Fra:1 Mem:21.19M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 60-135
+Fra:1 Mem:21.32M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 61-135
+Fra:1 Mem:21.17M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 62-135
+Fra:1 Mem:21.26M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 66-135
+Fra:1 Mem:21.17M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 63-135
+Fra:1 Mem:20.97M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 64-135
+Fra:1 Mem:21.10M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 65-135
+Fra:1 Mem:21.15M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 67-135
+Fra:1 Mem:21.16M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 68-135
+Fra:1 Mem:20.96M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 69-135
+Fra:1 Mem:20.82M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 70-135
+Fra:1 Mem:20.70M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 71-135
+Fra:1 Mem:20.54M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 74-135
+Fra:1 Mem:20.42M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 72-135
+Fra:1 Mem:20.08M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 73-135
+Fra:1 Mem:20.14M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 76-135
+Fra:1 Mem:20.42M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 75-135
+Fra:1 Mem:20.65M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 77-135
+Fra:1 Mem:20.45M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 78-135
+Fra:1 Mem:20.29M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 79-135
+Fra:1 Mem:20.22M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 80-135
+Fra:1 Mem:20.59M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 81-135
+Fra:1 Mem:20.45M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 82-135
+Fra:1 Mem:20.24M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 83-135
+Fra:1 Mem:20.04M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 85-135
+Fra:1 Mem:19.85M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 87-135
+Fra:1 Mem:19.69M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 88-135
+Fra:1 Mem:19.61M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 89-135
+Fra:1 Mem:19.63M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 86-135
+Fra:1 Mem:19.56M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 90-135
+Fra:1 Mem:19.44M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 84-135
+Fra:1 Mem:19.09M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 91-135
+Fra:1 Mem:19.05M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 93-135
+Fra:1 Mem:19.08M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 92-135
+Fra:1 Mem:19.14M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 94-135
+Fra:1 Mem:19.05M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 97-135
+Fra:1 Mem:18.96M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 98-135
+Fra:1 Mem:18.91M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 96-135
+Fra:1 Mem:18.91M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 99-135
+Fra:1 Mem:18.86M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 95-135
+Fra:1 Mem:18.81M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 100-135
+Fra:1 Mem:18.67M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 101-135
+Fra:1 Mem:18.34M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 102-135
+Fra:1 Mem:18.20M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 104-135
+Fra:1 Mem:18.27M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 57-135
+Fra:1 Mem:18.25M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 106-135
+Fra:1 Mem:18.35M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 105-135
+Fra:1 Mem:18.53M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 108-135
+Fra:1 Mem:18.75M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 110-135
+Fra:1 Mem:18.66M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 103-135
+Fra:1 Mem:18.57M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 111-135
+Fra:1 Mem:18.57M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 112-135
+Fra:1 Mem:18.50M (0.00M, Peak 21.95M) | Time:00:00.02 | Scene, Part 113-135
+Fra:1 Mem:19.84M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 107-135
+Fra:1 Mem:19.81M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 114-135
+Fra:1 Mem:19.73M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 58-135
+Fra:1 Mem:19.51M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 115-135
+Fra:1 Mem:19.53M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 116-135
+Fra:1 Mem:19.37M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 117-135
+Fra:1 Mem:19.10M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 118-135
+Fra:1 Mem:18.96M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 119-135
+Fra:1 Mem:18.67M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 122-135
+Fra:1 Mem:18.61M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 120-135
+Fra:1 Mem:18.40M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 121-135
+Fra:1 Mem:18.49M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 124-135
+Fra:1 Mem:18.70M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 123-135
+Fra:1 Mem:18.86M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 126-135
+Fra:1 Mem:18.77M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 125-135
+Fra:1 Mem:17.99M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 109-135
+Fra:1 Mem:17.90M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 127-135
+Fra:1 Mem:17.81M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 128-135
+Fra:1 Mem:17.72M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 134-135
+Fra:1 Mem:17.52M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 130-135
+Fra:1 Mem:17.32M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 131-135
+Fra:1 Mem:17.08M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 129-135
+Fra:1 Mem:16.99M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 132-135
+Fra:1 Mem:16.90M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 135-135
+Fra:1 Mem:16.68M (0.00M, Peak 21.95M) | Time:00:00.03 | Scene, Part 133-135
+
+total image memory len: 0.000 MB
+
+total memory len: 16.573 MB
+peak memory len: 21.948 MB
+slop memory len: 3.259 MB
+ ITEMS TOTAL-MiB AVERAGE-KiB TYPE
+     2 (   7.910  4050.121) Combined
+  1102 (   2.205     2.049) BLI_Mempool Chunk
+     2 (   1.978  1012.621) Depth
+  3619 (   0.869     0.246) PropertyRNA
+  2824 (   0.539     0.195) StructRNA
+  1990 (   0.349     0.180) keymap entry
+  1754 (   0.321     0.188) operatortype
+  2003 (   0.245     0.125) IDProperty group
+   516 (   0.201     0.398) python buttons panel
+     1 (   0.199   204.281) TaskScheduler task threads
+  1054 (   0.182     0.176) ghash_buckets_resize
+  1084 (   0.132     0.125) IDProperty int
+   584 (   0.124     0.218) Data from SCR
+     1 (   0.117   120.000) vlaknodes
+     6 (   0.094    16.039) qmc sampler
+   317 (   0.080     0.259) python buttons menu
+    50 (   0.075     1.540) lib block
+  1038 (   0.063     0.063) RNA_init gh
+     1 (   0.063    64.008) blo_read_file_internal
+  3438 (   0.060     0.018) strdup
+   464 (   0.057     0.125) IDProperty string
+     1 (   0.055    56.000) vertnodes
+  1068 (   0.049     0.047) memory pool
+  1914 (   0.044     0.023) wmOpItemPtr
+     1 (   0.039    40.000) Render ray faces
+     2 (   0.035    18.000) findOrAddVlak
+     1 (   0.033    34.125) TaskPool
+     1 (   0.033    33.516) sdnanames
+     2 (   0.031    15.992) svbvh arena2
+     2 (   0.023    12.000) findOrAddVert
+    75 (   0.020     0.273) ColorManagedLook
+   101 (   0.019     0.190) RNA_def_property_store
+    18 (   0.018     1.000) initfilt
+     1 (   0.016    15.992) ImTileCache arena
+   164 (   0.015     0.095) rna_Operator_register
+     1 (   0.015    15.500) loadeditbMesh loop
+     2 (   0.014     7.051) reconstruct
+    62 (   0.013     0.211) Data from BR
+     1 (   0.012    12.664) lampren
+    20 (   0.012     0.609) ColorSpace
+   464 (   0.011     0.025) id property string 2
+     1 (   0.011    11.625) loadeditbMesh edge
+     1 (   0.010    10.656) new render
+    79 (   0.010     0.133) keymap list
+    21 (   0.010     0.469) KeyingSet
+     1 (   0.009     9.414) loadeditbMesh vert
+    21 (   0.009     0.438) python keying set info
+    16 (   0.008     0.508) CustomData->layers
+     1 (   0.008     8.000) random_array
+    78 (   0.007     0.094) wmOperatorTypeMacro
+     1 (   0.006     6.000) face_nors
+     1 (   0.006     6.000) loadeditbMesh poly
+     1 (   0.005     5.516) sdnatypes
+    39 (   0.005     0.125) IDProperty float
+     1 (   0.005     4.852) sdnastrcs
+     3 (   0.004     1.458) Data from MA
+    22 (   0.004     0.195) node socket C type
+     2 (   0.004     2.031) Data from TE
+     2 (   0.004     1.820) CDDM_from_mesh
+    19 (   0.003     0.184) Data from SCE
+    65 (   0.003     0.047) bArgDoc
+     1 (   0.003     3.012) dist table
+    87 (   0.003     0.031) bArgument
+    20 (   0.003     0.133) python uilist
+    17 (   0.002     0.125) python buttons header
+    87 (   0.002     0.023) bAKey
+     1 (   0.002     1.945) Image
+     1 (   0.002     1.875) lamp shadow sample
+     2 (   0.002     0.910) fill_locales
+     1 (   0.002     1.664) new main
+     6 (   0.002     0.273) fsme
+    25 (   0.002     0.063) wmDropBox
+     2 (   0.001     0.742) frame node type
+     2 (   0.001     0.742) node type
+     1 (   0.001     1.438) undo Mesh
+     1 (   0.001     1.406) Object
+     1 (   0.001     1.383) Mesh
+    35 (   0.001     0.031) bpy_prop_py_data_get
+     1 (   0.001     1.023) ui font
+     3 (   0.001     0.320) blf_font_new_from_mem
+     6 (   0.001     0.156) dupli_mapalloc
+     9 (   0.001     0.102) dropmap list
+    10 (   0.001     0.086) user def
+     2 (   0.001     0.398) spacetype nla panel properties
+     2 (   0.001     0.398) spacetype graph panel properties
+     6 (   0.001     0.125) qmc sample table
+     4 (   0.001     0.180) spacetype file region
+     4 (   0.001     0.180) spacetype action region
+     4 (   0.001     0.180) spacetype image region
+     4 (   0.001     0.180) spacetype nla region
+     4 (   0.001     0.180) spacetype sequencer region
+     4 (   0.001     0.180) spacetype graphedit region
+    11 (   0.001     0.063) notifier
+     8 (   0.001     0.086) ColorManagedView
+    12 (   0.001     0.055) New task
+     1 (   0.001     0.586) ObjectInstance
+     3 (   0.001     0.180) spacetype text region
+     3 (   0.001     0.180) spacetype logic region
+     3 (   0.001     0.180) spacetype node region
+     1 (   0.000     0.500) shader node tree type
+     1 (   0.000     0.500) texture node tree type
+     1 (   0.000     0.500) IDP_ResizeIDPArray
+     1 (   0.000     0.500) compositor node tree type
+     3 (   0.000     0.164) wmKeyConfig
+     4 (   0.000     0.117) ColorManagedDisplay
+     4 (   0.000     0.117) DAG node
+     3 (   0.000     0.154) Data from LA
+     1 (   0.000     0.461) sample tables
+     2 (   0.000     0.219) spacetype time
+     1 (   0.000     0.398) spacetype file operator properties
+     1 (   0.000     0.398) spacetype node panel node sockets
+     1 (   0.000     0.398) spacetype buttons panel context
+     1 (   0.000     0.398) spacetype view3d panel object
+     1 (   0.000     0.398) spacetype nla panel track
+     1 (   0.000     0.398) spacetype node panel tree interface
+     1 (   0.000     0.398) spacetype graph panel drivers
+     1 (   0.000     0.398) spacetype image panel uv
+     1 (   0.000     0.398) spacetype nla panel modifiers
+     1 (   0.000     0.398) spacetype nla panel evaluation
+     1 (   0.000     0.398) spacetype nla panel animdata
+     1 (   0.000     0.398) spacetype graph panel modifiers
+     1 (   0.000     0.398) spacetype clip panel last operator
+     1 (   0.000     0.398) spacetype view3d panel vgroup
+     1 (   0.000     0.398) spacetype graph panel view
+     1 (   0.000     0.398) spacetype view3d panel last operator
+    16 (   0.000     0.023) BLI_genericNodeN
+     2 (   0.000     0.180) spacetype time region
+     2 (   0.000     0.180) spacetype view3d tools region
+     2 (   0.000     0.180) spacetype console region
+     2 (   0.000     0.180) spacetype buttons region
+     2 (   0.000     0.180) spacetype info region
+     2 (   0.000     0.180) spacetype clip region
+     2 (   0.000     0.180) spacetype script region
+     2 (   0.000     0.180) spacetype userpref region
+     2 (   0.000     0.156) Data from OB
+     2 (   0.000     0.145) Data from WM
+     3 (   0.000     0.094) BLI_array_store_create
+     1 (   0.000     0.273) object render struct
+     1 (   0.000     0.266) undo editmode
+     1 (   0.000     0.258) spacetype info menu recent files
+     2 (   0.000     0.125) IDProperty array dup
+     1 (   0.000     0.250) Initfilt3
+     1 (   0.000     0.234) python render engine
+     1 (   0.000     0.219) spacetype text
+     1 (   0.000     0.219) spacetype view3d
+     1 (   0.000     0.219) spacetype action
+     1 (   0.000     0.219) spacetype sequencer
+     1 (   0.000     0.219) spacetype ipo
+     1 (   0.000     0.219) spacetype script
+     1 (   0.000     0.219) spacetype image
+     1 (   0.000     0.219) spacetype nla
+     1 (   0.000     0.219) spacetype clip
+     1 (   0.000     0.219) spacetype logic
+     1 (   0.000     0.219) spacetype console
+     1 (   0.000     0.219) spacetype info
+     1 (   0.000     0.219) spacetype file
+     1 (   0.000     0.219) Cycles Alloc
+     1 (   0.000     0.219) spacetype node
+     1 (   0.000     0.219) spacetype userpref
+     1 (   0.000     0.219) spacetype buttons
+     1 (   0.000     0.188) new render layer
+     1 (   0.000     0.180) spacetype clip region tools
+     1 (   0.000     0.180) spacetype clip region properties
+     1 (   0.000     0.180) spacetype clip region preview
+     1 (   0.000     0.180) spacetype clip channels region
+     1 (   0.000     0.180) spacetype clip tool properties region
+     1 (   0.000     0.180) spacetype file operator region
+     1 (   0.000     0.180) spacetype outliner region
+     1 (   0.000     0.180) spacetype outliner header region
+     1 (   0.000     0.180) spacetype view3d buttons region
+     1 (   0.000     0.180) spacetype view3d header region
+     1 (   0.000     0.180) spacetype view3d main region
+     1 (   0.000     0.180) spacetype view3d tool properties region
+     1 (   0.000     0.172) new render result
+     1 (   0.000     0.164) RENDER_OT_render
+     3 (   0.000     0.055) memarena
+     1 (   0.000     0.156) BLI_array_store_at_size_ensure
+     2 (   0.000     0.063) BKE_icons_init
+     1 (   0.000     0.125) IDProperty prop array
+     3 (   0.000     0.039) DAG adj list
+     1 (   0.000     0.102) DM-BoundBox
+     1 (   0.000     0.102) bContext
+     1 (   0.000     0.102) new render view
+     1 (   0.000     0.102) Data from LS
+     1 (   0.000     0.094) addonpreftype
+     4 (   0.000     0.023) um_arraystore_cd_compact
+     1 (   0.000     0.094) QMCListBase
+     1 (   0.000     0.078) TaskScheduler threads
+     1 (   0.000     0.078) sdna
+     1 (   0.000     0.070) TaskScheduler
+     3 (   0.000     0.023) RecentFile
+     1 (   0.000     0.063) imb_thread_cache_init gh
+     1 (   0.000     0.063) uilisttypes_hash gh
+     1 (   0.000     0.063) dag_add_node gh
+     1 (   0.000     0.063) init_structDNA gh
+     1 (   0.000     0.063) tile_cache_params gh
+     1 (   0.000     0.063) menutypes_hash gh
+     1 (   0.000     0.063) Depsgraph Node Type Registry
+     1 (   0.000     0.063) Data from WO
+     1 (   0.000     0.063) BKE_addon_pref_type_init
+     1 (   0.000     0.063) nodesockettypes_hash gh
+     1 (   0.000     0.063) nodetreetypes_hash gh
+     1 (   0.000     0.063) nodetypes_hash gh
+     1 (   0.000     0.063) bArgs passes gh
+     1 (   0.000     0.063) make_sss_tree gh
+     1 (   0.000     0.063) wm_operatortype_init gh
+     1 (   0.000     0.055) BVHTree
+     1 (   0.000     0.051) bArgs passes
+     1 (   0.000     0.047) bArgs
+     3 (   0.000     0.016) BLI_linklist_prepend
+     1 (   0.000     0.039) groupobject
+     1 (   0.000     0.039) BKE_scene_base_add
+     1 (   0.000     0.039) DAG root
+     1 (   0.000     0.039) wmOperatorReportList
+     1 (   0.000     0.031) fsmenu
+     1 (   0.000     0.023) wmOperatorPtrRNA
+     1 (   0.000     0.023) Image Pool
+     2 (   0.000     0.008) EvaluationContext
+     1 (   0.000     0.008) matarray2
+     1 (   0.000     0.008) main lock
+     1 (   0.000     0.008) matarray1
+     1 (   0.000     0.008) Image Stereo Format
+     1 (   0.000     0.008) rng
+     1 (   0.000     0.004) matbits1
+Fra:1 Mem:16.16M (0.00M, Peak 21.95M) | Time:00:00.03 | Sce: Scene Ve:482 Fa:512 La:1
+Saved: 'C:\AgentFirst\workspace\Blender\render_img.png'
+ Time: 00:00.13 (Saving: 00:00.10)
+
